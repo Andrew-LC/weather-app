@@ -1,6 +1,6 @@
 ## Showcase
 
-![](./public/front.png)
+![](./public/search.png)
 ![](./public/weather-board.png)
 
 
